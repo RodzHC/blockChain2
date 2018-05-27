@@ -1,0 +1,22 @@
+{
+  "name": "blockchain2",
+  "version": "1.0.0",
+  "description": "https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodzHC/blockChain2.git"
+  },
+  "author": "Rodrigo Marzullo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodzHC/blockChain2/issues"
+  },
+  "homepage": "https://github.com/RodzHC/blockChain2#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
